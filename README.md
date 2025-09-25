@@ -2,9 +2,13 @@
 
 I am Tianle Zhong, currently a CS PhD at University of Virginia.
 
-I am interested in LLM Training / Inference / Triton 
+I am interested in Systems in LLM Training / Inference / Triton. 
 
 and sometimes fortunate enough to publish papers on them :)
+
+Currently I am a research scientist intern at ByteDance, 
+
+building efficient & easy-to-use [large-scale MoE training system](https://github.com/ByteDance-Seed/VeOmni/blob/main/docs/tutorials/ep_fsdp2.md).
 
 Learn more about me on [luosuu.github.io](https://luosuu.github.io/)
 
