@@ -2,7 +2,7 @@
 
 I am Tianle Zhong, currently a CS PhD at University of Virginia.
 
-I am interested in Systems in LLM Training / Inference / Triton. 
+I am interested in ML Systems, especially about LLM Training / Inference / Triton. 
 
 and sometimes fortunate enough to publish papers on them :)
 
