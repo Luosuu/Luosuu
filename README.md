@@ -6,7 +6,7 @@ I am interested in ML Systems, especially about LLM Training / Inference / Trito
 
 and sometimes fortunate enough to publish papers on them :)
 
-Currently I am a research scientist intern at ByteDance, building efficient & easy-to-use [large-scale MoE training system](https://github.com/ByteDance-Seed/VeOmni/blob/main/docs/tutorials/ep_fsdp2.md).
+Currently I am a research scientist intern at ByteDance, building efficient & easy-to-use [large-scale MoE training system](https://veomni.readthedocs.io/en/latest/key_features/ep_fsdp2.html).
 
 Learn more about me on [luosuu.github.io](https://luosuu.github.io/)
 
